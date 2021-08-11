@@ -1,0 +1,18 @@
+.grid {
+  margin: 100px 0 0;
+  display: block;
+}
+
+.row {
+  height: 25px;
+}
+
+.pfv {
+  text-align: center;
+}
+
+.button {
+  height: 50px;
+  width: 170px;
+  background-color: chartreuse;
+}
